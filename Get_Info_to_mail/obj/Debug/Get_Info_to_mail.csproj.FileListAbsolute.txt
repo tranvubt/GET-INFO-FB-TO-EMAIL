@@ -1,0 +1,13 @@
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\bin\Debug\Get_Info_to_mail.exe.config
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\bin\Debug\Get_Info_to_mail.exe
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\bin\Debug\Get_Info_to_mail.pdb
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\obj\Debug\Get_Info_to_mail.csprojAssemblyReference.cache
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\obj\Debug\Get_Info_to_mail.Form1.resources
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\obj\Debug\Get_Info_to_mail.Properties.Resources.resources
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\obj\Debug\Get_Info_to_mail.csproj.GenerateResource.cache
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\obj\Debug\Get_Info_to_mail.csproj.CoreCompileInputs.cache
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\obj\Debug\Get_Info_to_mail.exe
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\obj\Debug\Get_Info_to_mail.pdb
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OsakaShop\Desktop\Bài Code\C#\Get_Info_to_mail\Get_Info_to_mail\obj\Debug\Get_Info_to_mail.csproj.CopyComplete
